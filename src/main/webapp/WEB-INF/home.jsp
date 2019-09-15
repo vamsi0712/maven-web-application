@@ -14,6 +14,7 @@
 <body>
 <h1 align="center">Welcome to Mithun Software Solutions Pvt Ltd.</h1>
 <h1 align="center">
+	hello now git hub triggered job.
 	100 % Job Guarntee DevOps Program will start on August 17th 9 AM IST.
 	hello hi vamsi Very Good Training center for DevOps in Maratha Halli and also for Job Assitance... and Job Support also...Teaching Real Time scnerios</h1>
 <hr>
