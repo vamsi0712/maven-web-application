@@ -1,4 +1,4 @@
-node
+node('paytm-node')
 {
     //Getting the  env  global varibale values
  
