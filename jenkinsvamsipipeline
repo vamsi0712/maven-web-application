@@ -20,7 +20,7 @@ node('paytm-node')
     {
         git branch: 'development', credentialsId: '35adacd4-98b4-46dc-908e-4c9806f639d3', url: 'https://github.com/vamsi0712/maven-web-application.git'
     }
-    stage('Build')
+   /* stage('Build')
     {
         sh "${mavenHome}/bin/mvn clean package"
     }
@@ -32,6 +32,7 @@ node('paytm-node')
     {
         sh "${mavenHome}/bin/mvn deploy"
     }
+    */
     stage('deploy to tomcat') 
     {
         sshagent(['0df2e117-a50f-46d7-92b1-857387f07f84']) {
